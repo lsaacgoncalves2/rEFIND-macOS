@@ -15,7 +15,8 @@ Boot the system to recovery mode.
 Open utilities and then terminal.
 
 5th step:
-Type:
+Type one at a time:
+
 ```
 cd /
 ls
