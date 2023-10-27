@@ -15,7 +15,7 @@ Boot the system to recovery mode.
 Open utilities and then terminal.
 
 5th step:
-Type one at a time:
+Type one at a time.
 
 ```
 cd /
