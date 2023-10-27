@@ -1,2 +1,2 @@
 # rEFIND-macOS
-How to install rEFiND on macOS.
+How to install rEFIND on macOS.
