@@ -16,32 +16,17 @@ Open utilities and then terminal.
 
 5th step:
 Type:
-
-  cd /
-
-  
-  ls
-
-  
-  cd Volumes
-
-  
-  ls
-
-  
-  cd REFLASH
-
-  
-  ls
-
-  
-  cd refind-bin-0.14.0
-
-  
-  ls
-
-  
-  ./refind-install
+```
+cd /
+ls
+cd Volumes
+ls
+cd REFLASH
+ls
+cd refind-bin-0.14.0
+ls
+./refind-install
+```
 
   
 
