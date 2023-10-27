@@ -18,14 +18,32 @@ Open utilities and then terminal.
 Type:
 
   cd /
+
+  
   ls
+
+  
   cd Volumes
+
+  
   ls
+
+  
   cd REFLASH
+
+  
   ls
+
+  
   cd refind-bin-0.14.0
+
+  
   ls
+
+  
   ./refind-install
+
+  
 
 6th step:
 Reboot.
